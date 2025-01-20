@@ -6,7 +6,8 @@
 ***
 
 ![Detritalw](https://z3.ax1x.com/2021/11/20/IqqQIg.jpg)  
-###### 感谢[Cloudflash](/Users/1160968 "跳转到Cloudflash#1160968的个人主页→")提供的封面图像{.human-verified-icon_verifiedLevel-1_-X3x
+###### 感谢 @Rhedar 提供的封面图像
+
 # 随机图像
 
 ![](https://api.imlazy.ink/img-phone)
