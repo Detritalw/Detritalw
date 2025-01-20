@@ -6,7 +6,7 @@
 ***
 
 ![Detritalw](https://z3.ax1x.com/2021/11/20/IqqQIg.jpg)  
-###### 感谢 @Rhedar 提供的封面图像
+###### 感谢 [@RhedarLiu](https://github.com/RhedarLiu) 提供的封面图像
 
 # 随机图像
 
