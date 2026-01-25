@@ -1,5 +1,7 @@
 # Detrital
 
+<img src="https://algora.io/og/user/Detritalw" />
+
 ### Takanashi Hoshino API
 ![](http://pcfs.eno.ink:20009/api/img/Takanashi-Hoshino)
 
