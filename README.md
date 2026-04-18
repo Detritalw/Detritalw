@@ -1,6 +1,6 @@
 # Detrital
 
-<img src="https://algora.io/og/user/Detritalw" />
+<a href="https://gitroll.io/profile/ufJt24WQfrzf3XV3iRYB0aRnIaIc2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ufJt24WQfrzf3XV3iRYB0aRnIaIc2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 ### Takanashi Hoshino API
 ![](http://pcfs.eno.ink:20009/api/img/Takanashi-Hoshino)
